@@ -1,6 +1,6 @@
 cask "rippleclick" do
-  version "0.0.11"
-  sha256 "831d0d98ee614c048a6c053e142577417a1972cc5e196aba23a215a9e100cca7"
+  version "0.0.12"
+  sha256 "7fb9293aea7e44065fdb2bdf60416bd0f5a3ac022c599e6ee46f67613b8a5f5e"
 
   url "https://github.com/0xmokuren/RippleClick/releases/download/v#{version}/RippleClick-#{version}.zip"
   name "RippleClick"
